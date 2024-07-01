@@ -37,7 +37,7 @@ Se inició la exploración de los datos implementando gráfico de barras y circu
 <figure class="image">
 <p align="center">
 <img src="https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/blob/main/Images/output_13_1.png" width="auto" height="auto">
-<figcaption> <strong>Figure 1.</strong>  </figcaption>
+<figcaption> <strong>Figura 1.</strong>  </figcaption>
 </p>
 </figure>
 
@@ -50,7 +50,7 @@ Los resultados de las pruebas de normalidad de Shapiro Wilks arrojaron que ningu
 <figure class="image">
 <p align="center">
 <img src="https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/blob/main/Images/Figura2.png" width="auto" height="auto">
-<figcaption> <strong>Figure 2.</strong>  </figcaption>
+<figcaption> <strong>Figura 2.</strong>  </figcaption>
 </p>
 </figure>
 
@@ -60,7 +60,7 @@ Por último, se crearon un diagrama de caja y bigotes para comparar la distribuc
 <figure class="image">
 <p align="center">
 <img src="https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/blob/main/Images/output_18_0.png" width="auto" height="auto">
-<figcaption> <strong>Figure 3.</strong>  </figcaption>
+<figcaption> <strong>Figura 3.</strong>  </figcaption>
 </p>
 </figure>
 
@@ -76,8 +76,9 @@ Para la exploración de los datos por categorías se utilizó una clasificaron d
 | Despersonalización o Cinismo | 0 - 5       | 6 - 9        | 10 - 30     |
 | Autorrealización personal    | 40 - 48     | 34 - 39      | 0 - 30      |
 
-<caption>Table 1</caption>
+<caption>Tabla 1</caption>
 </table>
+
 
 
 En ella cada variable se divide por Bajo riesgo o síntomas leves, Medio riesgo o síntomas moderados y Alto riesgo o síntomas graves. De acuerdo con esta clasificación se emplearon nuevamente gráficas descriptivas para estudiar el comportamiento de cada grupo.
