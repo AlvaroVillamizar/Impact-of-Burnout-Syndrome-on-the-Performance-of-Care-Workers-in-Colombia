@@ -1,3 +1,7 @@
+<figure class="image">
+<p align="center">
+<img src="https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/blob/main/Images/Asistenciales.png" width="auto" height="auto">
+
 # Estudio estadístico del sindrome de burnout y factores de riesgo psicosociales asociados al control inhibitorio en trabajadores de Colombia
 
 https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/assets/43424429/59303e16-6451-4aaa-b50a-5f6d7eccfbc6
