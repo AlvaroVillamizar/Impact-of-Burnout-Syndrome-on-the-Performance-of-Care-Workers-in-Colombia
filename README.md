@@ -1,5 +1,7 @@
 # Estudio estadístico del sindrome de burnout y factores de riesgo psicosociales asociados al control inhibitorio en trabajadores de Colombia
 
+https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/assets/43424429/59303e16-6451-4aaa-b50a-5f6d7eccfbc6
+
 Para este proyecto se empleó un muestreo en trabajadores de Colombia bajo la metodología del efecto bola de nieve, esto debido al difícil acceso a poblaciones de profesionales asistenciales que cuenten con el permiso de la empresa. Los trabajadores de tipo asistencial presentes en este proyecto incluyen policías, docentes y trabajadores de salud, dentro de los trabajadores no asistenciales encontramos operarios y personal de oficina.
 
 Para este proyecto se establecieron una serie de hipótesis las cuales fueron exploradas y resueltas a través del presente análisis, estas hipótesis establecen:
